@@ -6,8 +6,8 @@ No Frameworks
 
 ---
 
-<div align="center">
-    <img src="./docs/print.png">
+<div align="center" >
+    <img width="480px" src="./docs/print.png">
 </div>
 
 ---
